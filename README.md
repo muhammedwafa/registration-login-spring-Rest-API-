@@ -15,6 +15,6 @@ Backend
 
 Frontend
 ----------
-- [ ] :grinning:  Angular 13
-- [ ] :grinning: TypeScript
+:grinning:  Angular 13
+:grinning: TypeScript
 
